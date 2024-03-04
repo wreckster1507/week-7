@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/week-7/static/css/main.db62923b.css",
+    "main.js": "/week-7/static/js/main.af6a5297.js",
+    "static/js/453.64d36050.chunk.js": "/week-7/static/js/453.64d36050.chunk.js",
+    "static/media/campchase-home.png": "/week-7/static/media/campchase-home.5757a4420ebaa6967e90.png",
+    "static/media/bookstorehome.png": "/week-7/static/media/bookstorehome.707e7eaf0da6d0a1c96f.png",
+    "index.html": "/week-7/index.html",
+    "main.db62923b.css.map": "/week-7/static/css/main.db62923b.css.map",
+    "main.af6a5297.js.map": "/week-7/static/js/main.af6a5297.js.map",
+    "453.64d36050.chunk.js.map": "/week-7/static/js/453.64d36050.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.af6a5297.js"
+  ]
+}
